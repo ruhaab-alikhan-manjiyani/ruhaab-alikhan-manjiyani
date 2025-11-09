@@ -1,5 +1,4 @@
-## Hey <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/0d2e57d7-c814-4cf3-98c0-c9e87be75ff7" />
-
+## Hello 👋
 
 I'm Ruhaab, a student, marketer, communicator, and tech enthusiast.
 
