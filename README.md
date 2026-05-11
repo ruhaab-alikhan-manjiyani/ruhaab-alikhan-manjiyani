@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm Ruhaab, a student, marketer, communicator, and tech enthusiast.
+I'm Ruhaab, a student, a digital marketer (specializing in real estate), and tech enthusiast.
 
 I love creating content, connecting with people, and exploring how creativity and technology come together. Lately, I’ve been learning Python and getting into artificial intelligence, trying to understand how it’s shaping the world around us.
 
